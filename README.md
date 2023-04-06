@@ -9,6 +9,7 @@ Using the API provided by DART, crawl stock information, extract and analyze the
 
 - Team peoples
 
+<!-- TODO... Commit by writing down your file name and hub link, Commit must make Brenches  -->
 |Team people |workpiece|Git hub link|
 |---|---|---|
 |Lee ju hyun|Investment.py|[Git hub link](https://github.com/leeeju)|

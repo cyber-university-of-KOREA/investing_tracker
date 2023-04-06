@@ -6,7 +6,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 
-API_KEY = 'f87775cfc0cd17c470518d177c4cab57d5321d84'
+API_KEY = 'your api'
 
 
 def get_stock_info(stock_code="QQQ"):

@@ -1,4 +1,4 @@
-# investing_tracker project
+# investing tracker project
 
   ## Investment Judgment Project Using Securities API and Python
 

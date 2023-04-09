@@ -30,5 +30,5 @@ https://dart-fss.readthedocs.io/en/latest/index.html
 ---
 ## Brenches create rules
  
- new branch name : feature/yourname
+ new branch name : feature/yourname/yourworkpiece
 

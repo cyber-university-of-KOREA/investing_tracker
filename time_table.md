@@ -13,6 +13,11 @@ Using the API provided by DART, crawl stock information, extract and analyze the
 - Vscode
 - python3.0
 - openAPI
+
+### Data visualization
+- matplotlib
+- Qt5
+- PyQtGraph
 ---
 ### vscode extension
 [extension][dill1]

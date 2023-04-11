@@ -1,4 +1,4 @@
-# investing_tracker project
+# investing tracker project
 
   ## Investment Judgment Project Using Securities API and Python
 
@@ -26,11 +26,12 @@ Using the API provided by DART, crawl stock information, extract and analyze the
 
 |time_table |Goals|Reference|
 |---|---|---|
-|1~2주차|GitHub Setting|small mission 1~2|
-|3~4주차|API crawling|small mission 1~2|
-|4~5주차|Data Processing|small mission 1~2|
-|5~6주차|Data Visualization|small mission 1~2|
-|6~7주차|Add Feature|small mission 1~2|
+|1주차|individual Set goal|Find individual goals|
+|2~3주차|GitHub Setting|small mission 1~2|
+|4~5주차|API crawling|small mission 1~2|
+|6~8주차|Data Processing|small mission 1~2|
+|9~10주차|Data Visualization|small mission 1~2|
+|10~11주차|Add Feature|small mission 1~2|
 
 ---
 

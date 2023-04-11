@@ -1,4 +1,4 @@
-# investing_tracker project
+# investing tracker project
 
   ## Investment Judgment Project Using Securities API and Python
 
@@ -31,5 +31,5 @@ https://dart-fss.readthedocs.io/en/latest/index.html
 ---
 ## Brenches create rules
  
- new branch name : feature/yourname
+ new branch name : feature/yourname/yourworkpiece
 

@@ -13,10 +13,11 @@ Using the API provided by DART, crawl stock information, extract and analyze the
 |Team people |workpiece|Git hub link|
 |---|---|---|
 |Lee ju hyun|Investment.py|[Git hub link](https://github.com/leeeju)|
-|Kim do yeon|workpiece.py|Git hub link|
-|Choi kwangsik|workpiece.py|Git hub link|
-|park jungmin|workpiece.py|Git hub link|
-|Jeong Eun Jeong|workpiece.py|Git hub link|
+|Kim do yeon|project.py|Git hub link|
+|Choi kwangsik|project.py|Git hub link|
+|park jungmin|project.py|Git hub link|
+|Jeong Eun Jeong|project.py|Git hub link|
+|Tom Yoo|project.py|Git hub link|
 
 ---
 ### Utilize
